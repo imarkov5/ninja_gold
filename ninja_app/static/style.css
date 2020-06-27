@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    margin: 10px auto;
+    width: 980px;
+    min-height: 500px;
+    background-color: antiquewhite;
+    padding: 30px 70px;
+}
+h3{
+    display: inline-block;
+    vertical-align: top;
+}
+.count{
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    border: 2px solid black;
+    box-shadow: 2px 3px 4px gray;
+    padding-left: 5px;
+}
+.destination{
+    padding: 20px 10px;
+    width: 200px;
+    border: 2px solid black;
+    box-shadow: 2px 3px 4px gray;
+    display: inline-block;
+    margin: 50px 5px;
+    text-align: center;
+}
+p{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+button{
+    width: 100px;
+    height: 25px;
+}
+.activities{
+    width: 945px;
+    height: 200px;
+    border: 2px solid black;
+    box-shadow: 2px 3px 4px gray;
+    overflow: scroll;
+    padding: 10px 10px;
+}
+.misfortune{
+    color: red;
+    margin: 0px;
+}
+.success{
+    color: green;
+    margin: 0px;
+}
+.gold button{
+    margin-left: 630px;
+    background-color: snow;
+}
